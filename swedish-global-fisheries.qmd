@@ -58,7 +58,7 @@ fraction of fishery stocks within biologically sustainable levels decreased to 6
 :::
 
 ## Vilka grupper fiskas globalt?
-![](figures/fao_capture_groups.jpg){fig-align="center" height="550px"}
+![](figures/fao_capture_groups.jpg){fig-align="center" height="10%"}
 
 ::: footer
 FAO: The state of world fisheries and aquaculture 2024
@@ -66,6 +66,18 @@ FAO: The state of world fisheries and aquaculture 2024
 
 ::: notes
 a.pollock och anchoveta
+:::
+
+## Länder i topp 
+![](figures/cumulativ_share_country.jpg){fig-align="center"}
+
+::: notes
+Trots att fiske sker överallt, är det väldigt centrerat till ett par länder. 
+While China remains the world’s top producer of marine captures, its catches have declined by 17.9 percent, from 14.4 million tonnes in 2015 to 11.8 million tonnes in 2022. A continuation of a catch reduction policy beyond the Thirteenth and Fourteenth Five-Year Plans (2016–2020 and 2021–2025) is expected to result in further decreases in coming years, although 2022 marine capture catches were broadly similar to those in 2021.
+:::
+
+::: footer
+FAO: The state of world fisheries and aquaculture 2024
 :::
 
 ## Vad fiskas globalt?
@@ -96,6 +108,28 @@ Vilka världsdelar ökar/minskar? Kina, asien, tidig peak i europa och tydlig ne
 
 ::: notes
 Akvakultur kan se ut på olika sätt. Ett stort ämne är vad man ger för föda till fisk. Särskilt för ett par år sen pratade man mycket om problematiken med att odla fisk för att få ut en färre mångd rovfisk som fisk, och att det inte är särskilt effektivt. Här kommer dock en konflict mellan biodiversitet på land å ena sidan och hållbara fisken på den andra. Vi ser att i europa odlar vi nästan inga fiskar alls som inte behöver föda.
+:::
+
+## Hur används fiskeprodukter?
+![](figures/food_non_food.jpg){fig-align="center" height="630px"}
+
+::: notes
+Av de 185,4 miljoner ton (levande vikt motsvarande) marina djur som skördades globalt 2022, användes cirka 89 procent (164,6 miljoner ton) för direkt konsumtion av människor.
+
+De återstående 11 procenten (20,8 miljoner ton) var avsedda för icke-livsmedelsändamål, varav cirka 83 procent (17 miljoner ton) omvandlades till fiskmjöl och fiskeolja, medan resten (cirka 4 miljoner ton) främst användes som prydnadsfisk, i akvakultur (t.ex. som yngel, fingerlingar eller små vuxna för vidare uppväxt), som bete, i farmaceutiska tillämpningar, för husdjursfoder eller som råmaterial för direkt utfodring inom akvakultur samt uppfödning av boskap och pälsdjur.
+:::
+
+## Hur används fiskerprodukter?
+![](figures/fishmeal.jpg){fig-align="center" height="630px"}
+
+::: notes
+Volymen av världens fiskeproduktion som omvandlas till fiskmjöl och fiskeolja har minskat under de senaste decennierna. Från en topp på över 30 miljoner ton 1994, vilket motsvarade cirka 35 procent av den marina fångstfiskproduktionen, minskade det till mindre än 14 miljoner ton 2014. År 2018 ökade volymen till cirka 18 miljoner ton, främst på grund av ökad fångst av peruansk ansjovis, men återgick till tidigare trender med över 17 miljoner ton som utnyttjades 2022. Detta motsvarade cirka 22 procent av fångstfisken i marina vatten 2022.
+
+Samtidigt produceras en växande andel av fiskmjölet och fiskeoljan från biprodukter från fiskbearbetningsindustrin, vilket minskar avfall och förbättrar resursvärderingen. Enligt uppskattningar från Marine Ingredients Organisation (IFFO) kom 2022, 34 procent av det globala fiskmjölet och 53 procent av fiskeoljan från biprodukter. Denna användning av biprodukter har hjälpt till att hålla den totala mängden fiskmjöl och fiskeolja relativt stabil sedan mitten av 2000-talet, med omkring 5 miljoner ton respektive 1 miljon ton produktvikt, trots minskningen av andelen som kommer från hela fiskar.
+
+Det är viktigt att notera att fiskmjöl från biprodukter har ett lägre proteininnehåll men är rikare på mineraler jämfört med fiskmjöl från hela fiskar
+
+NOTES: * Mainly pet food. ** Pet food, biofuel, cooking oil.
 :::
 
 ## Handelsflöden
@@ -401,7 +435,14 @@ Notera var pelagiskt fiske med aktiva redskap är
 
 # {background-image="barometern.png"}
 
+
+
 ## Beståndsanalyser och statusbedömning av nationellt förvaltade arter 
+- För "internationella" arter görs beståndsuppskattningar i internationella arbetsgrupper
+- Beslut om fångst tas på EU-nivå
+
+## Beståndsanalyser och statusbedömning av nationellt förvaltade arter 
+- EU:s gemensamma fiskeripolitik: basera förvaltningen på bästa tillgängliga vetenskap. 
 - Arter som abborre, gädda, gös etc.
 - Kust och stora sjöarna
 - Sammanvägd bedömning av indikatorer
@@ -433,7 +474,6 @@ Notera var pelagiskt fiske med aktiva redskap är
 
 ::::
   
-
 ## Abborre
 
 <br>
@@ -462,4 +502,35 @@ Notera var pelagiskt fiske med aktiva redskap är
 Botten: Forsmark, Galtfjärden, Gaviksfjärden, Långvindsfjärden
 Egentliga Öster: Vaxholm, Asköfjärden, Kvädöfjärden, Lagnö
 :::
+
+## Bedömning av nationellt förvaltade arter
+- Fiskbarometer: Årlig rapport av SLU Aqua på uppdrag av Havs- och vattenmyndigheten (HaV)
+- Ligger till grund för rapporten "Hållbart nyttjande av fisk- och skaldjursbestånd i kust och hav"
+  - Uppföljning av miljökvalitetsmålet ”Hav i balans samt levande kust och skärgård”
+
+## "Hållbart nyttjande av fisk- och skaldjursbestånd i kust och hav"
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Indikatorn omfattar 99% av landade arter
+- 40,8 % ”hållbart nyttjande" (av totalt 76 bestånt)
+- Tillförlitligheten (MSY-bedömning) högst i Västerhavet (38%), följt av Östersjön (25%), Bottenhavet (15%) och Bottenviken (11%).
+:::
+
+::: {.column width="40%"}
+![](figures/miljmömål.png){fig-align="center"}
+:::
+
+::::
+
+## Sammanfattning
+- Fiskbarometern utgör ett viktigt underlag för HaVs arbete
+
+- Förändringar över tid kan bero på:
+  - Enskilda viktiga arter får ny bedömning
+  - Ny uppdelningar av bestånd
+  - Bedömnning möjlig / ej möjlig
+
+
 
